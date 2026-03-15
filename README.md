@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [Evans Chiposa]
+**Student ID:** [2021461696]
+**Design Theme:** [My portfolio uses a minimalist modern theme with a teal and gold color palette, clean typography, and responsive layouts. The design emphasizes clarity, accessibility, and professionalism while keeping the focus on content.]
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,7 +139,7 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+[i struggled with pushing the work to github but once i did my research i managed to get it done.]
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
